@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Matheus-RM/QR-code-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Matheus-RM/QR-code-page)
+- Live Site URL: [Github Page](https://matheus-rm.github.io/QR-code-page)
 
 ## My process
 
@@ -55,4 +55,5 @@ In my next projects I would like to improve some animations and hover effects, a
 
 ## Author
 
+- Name - Matheus Ribeiro Martins
 - Frontend Mentor - [@Matheus-RM](https://www.frontendmentor.io/profile/Matheus-RM)
